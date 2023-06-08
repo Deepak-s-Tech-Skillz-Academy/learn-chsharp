@@ -1,2 +1,2 @@
-# learn-chsharp
+# learn-csharp
 Learn new csharp concepts
