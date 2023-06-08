@@ -1,0 +1,16 @@
+D:\TechSkillzAcademy\learn-csharp\firstsample\bin\Debug\net8.0\firstsample.exe
+D:\TechSkillzAcademy\learn-csharp\firstsample\bin\Debug\net8.0\firstsample.deps.json
+D:\TechSkillzAcademy\learn-csharp\firstsample\bin\Debug\net8.0\firstsample.runtimeconfig.json
+D:\TechSkillzAcademy\learn-csharp\firstsample\bin\Debug\net8.0\firstsample.dll
+D:\TechSkillzAcademy\learn-csharp\firstsample\bin\Debug\net8.0\firstsample.pdb
+D:\TechSkillzAcademy\learn-csharp\firstsample\obj\Debug\net8.0\firstsample.csproj.AssemblyReference.cache
+D:\TechSkillzAcademy\learn-csharp\firstsample\obj\Debug\net8.0\firstsample.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechSkillzAcademy\learn-csharp\firstsample\obj\Debug\net8.0\firstsample.AssemblyInfoInputs.cache
+D:\TechSkillzAcademy\learn-csharp\firstsample\obj\Debug\net8.0\firstsample.AssemblyInfo.cs
+D:\TechSkillzAcademy\learn-csharp\firstsample\obj\Debug\net8.0\firstsample.csproj.CoreCompileInputs.cache
+D:\TechSkillzAcademy\learn-csharp\firstsample\obj\Debug\net8.0\firstsample.sourcelink.json
+D:\TechSkillzAcademy\learn-csharp\firstsample\obj\Debug\net8.0\firstsample.dll
+D:\TechSkillzAcademy\learn-csharp\firstsample\obj\Debug\net8.0\refint\firstsample.dll
+D:\TechSkillzAcademy\learn-csharp\firstsample\obj\Debug\net8.0\firstsample.pdb
+D:\TechSkillzAcademy\learn-csharp\firstsample\obj\Debug\net8.0\firstsample.genruntimeconfig.cache
+D:\TechSkillzAcademy\learn-csharp\firstsample\obj\Debug\net8.0\ref\firstsample.dll
