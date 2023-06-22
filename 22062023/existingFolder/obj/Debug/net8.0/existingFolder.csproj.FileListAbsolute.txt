@@ -1,0 +1,15 @@
+D:\TechSkillzAcademy\22062023\existingFolder\bin\Debug\net8.0\existingFolder.exe
+D:\TechSkillzAcademy\22062023\existingFolder\bin\Debug\net8.0\existingFolder.deps.json
+D:\TechSkillzAcademy\22062023\existingFolder\bin\Debug\net8.0\existingFolder.runtimeconfig.json
+D:\TechSkillzAcademy\22062023\existingFolder\bin\Debug\net8.0\existingFolder.dll
+D:\TechSkillzAcademy\22062023\existingFolder\bin\Debug\net8.0\existingFolder.pdb
+D:\TechSkillzAcademy\22062023\existingFolder\obj\Debug\net8.0\existingFolder.csproj.AssemblyReference.cache
+D:\TechSkillzAcademy\22062023\existingFolder\obj\Debug\net8.0\existingFolder.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechSkillzAcademy\22062023\existingFolder\obj\Debug\net8.0\existingFolder.AssemblyInfoInputs.cache
+D:\TechSkillzAcademy\22062023\existingFolder\obj\Debug\net8.0\existingFolder.AssemblyInfo.cs
+D:\TechSkillzAcademy\22062023\existingFolder\obj\Debug\net8.0\existingFolder.csproj.CoreCompileInputs.cache
+D:\TechSkillzAcademy\22062023\existingFolder\obj\Debug\net8.0\existingFolder.dll
+D:\TechSkillzAcademy\22062023\existingFolder\obj\Debug\net8.0\refint\existingFolder.dll
+D:\TechSkillzAcademy\22062023\existingFolder\obj\Debug\net8.0\existingFolder.pdb
+D:\TechSkillzAcademy\22062023\existingFolder\obj\Debug\net8.0\existingFolder.genruntimeconfig.cache
+D:\TechSkillzAcademy\22062023\existingFolder\obj\Debug\net8.0\ref\existingFolder.dll
