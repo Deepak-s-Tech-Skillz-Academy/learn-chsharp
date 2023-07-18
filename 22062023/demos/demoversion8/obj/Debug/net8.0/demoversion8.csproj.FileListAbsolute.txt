@@ -1,0 +1,15 @@
+D:\TechSkillzAcademy\22062023\demos\demoversion8\bin\Debug\net8.0\demoversion8.exe
+D:\TechSkillzAcademy\22062023\demos\demoversion8\bin\Debug\net8.0\demoversion8.deps.json
+D:\TechSkillzAcademy\22062023\demos\demoversion8\bin\Debug\net8.0\demoversion8.runtimeconfig.json
+D:\TechSkillzAcademy\22062023\demos\demoversion8\bin\Debug\net8.0\demoversion8.dll
+D:\TechSkillzAcademy\22062023\demos\demoversion8\bin\Debug\net8.0\demoversion8.pdb
+D:\TechSkillzAcademy\22062023\demos\demoversion8\obj\Debug\net8.0\demoversion8.csproj.AssemblyReference.cache
+D:\TechSkillzAcademy\22062023\demos\demoversion8\obj\Debug\net8.0\demoversion8.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechSkillzAcademy\22062023\demos\demoversion8\obj\Debug\net8.0\demoversion8.AssemblyInfoInputs.cache
+D:\TechSkillzAcademy\22062023\demos\demoversion8\obj\Debug\net8.0\demoversion8.AssemblyInfo.cs
+D:\TechSkillzAcademy\22062023\demos\demoversion8\obj\Debug\net8.0\demoversion8.csproj.CoreCompileInputs.cache
+D:\TechSkillzAcademy\22062023\demos\demoversion8\obj\Debug\net8.0\demoversion8.dll
+D:\TechSkillzAcademy\22062023\demos\demoversion8\obj\Debug\net8.0\refint\demoversion8.dll
+D:\TechSkillzAcademy\22062023\demos\demoversion8\obj\Debug\net8.0\demoversion8.pdb
+D:\TechSkillzAcademy\22062023\demos\demoversion8\obj\Debug\net8.0\demoversion8.genruntimeconfig.cache
+D:\TechSkillzAcademy\22062023\demos\demoversion8\obj\Debug\net8.0\ref\demoversion8.dll
